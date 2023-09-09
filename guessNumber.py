@@ -10,4 +10,3 @@ if random_number == user_guess:
 else:
     print("Sorry, you didnt guess the number")
 
-#jjdjdjkskhfhfh
