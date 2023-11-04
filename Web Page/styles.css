@@ -1,0 +1,35 @@
+.paragraph{
+    color: black;
+    font-weight: bold;
+  }
+  
+  img{
+    width: 300px;
+    height: 300px;
+    display:block;
+    margin:auto;
+    
+    
+  }
+  
+  h{
+    color: black;
+    font-weight: bold;
+  }
+  
+  
+  body{
+    background-color: aquamarine;
+  }
+  
+  h1{
+    text-align: center;
+  }
+  
+  .contact{
+    text-align: center;
+  }
+  
+  .talkSergio{
+    text-align: center;
+  }
